@@ -1,0 +1,2 @@
+Flask==2.0.1
+deepface==0.0.68
